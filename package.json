@@ -1,0 +1,23 @@
+{
+  "name": "first_module",
+  "version": "1.0.0",
+  "description": "My first attempt at using node modules",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danbudris/cs602_lab1.git"
+  },
+  "keywords": [
+    "modules",
+    "es6"
+  ],
+  "author": "Dan Budris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danbudris/cs602_lab1/issues"
+  },
+  "homepage": "https://github.com/danbudris/cs602_lab1#readme"
+}
